@@ -30,14 +30,14 @@ Create an intelligent agent that can:
 
 ### Phase 3: Tool Use (The "Hands")
 *Focus: Letting the agent do things.*
-- [ ] **Basic Tools**: Create simple Python functions (e.g., `calculate_sum`, `get_weather`) the agent can call.
-- [ ] **ToolBinding**: Binding tools to the LLM.
-- [ ] **The ReAct Pattern**: Implementing the "Reasoning + Acting" loop manually in LangGraph.
+- [x] **Basic Tools**: Create simple Python functions (e.g., `calculate_sum`, `get_weather`) the agent can call.
+- [x] **ToolBinding**: Binding tools to the LLM.
+- [x] **The ReAct Pattern**: Implementing the "Reasoning + Acting" loop manually in LangGraph.
 
 ### Phase 4: Architectural Refactoring
 *Focus: Organizing code like a pro (mimicking `whatsapp-agent-course`).*
-- [ ] **Modularization**: Split `main.py` into `state.py`, `nodes.py`, `edges.py`, `graph.py`.
-- [ ] **Configuration**: Managing environment variables and settings properly.
+- [x] **Modularization**: Split `main.py` into `state.py`, `nodes.py`, `edges.py`, `graph.py`.
+- [x] **Configuration**: Managing environment variables and settings properly.
 
 ### Phase 5: Memory & Persistence
 *Focus: Remembering things.*
