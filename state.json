@@ -1,0 +1,99 @@
+{
+  "messages": [
+    {
+      "content": "hola!!! que tal estas!!! :)",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": "8bc357d2-688f-4b05-af3f-ec21e375b6fa"
+    },
+    {
+      "content": "Hola, estoy muy bien, gracias. \u00bfEn qu\u00e9 puedo ayudarte hoy? [Sentiment: positive]",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": "15920a50-c061-4398-a77a-a370e733101d",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    },
+    {
+      "content": "espera, no entiendo nada",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": "fa9b7afe-ba56-4a2e-9de1-387ec34b2435"
+    },
+    {
+      "content": "\u00a1No te preocupes! Puedo explicarte todo de nuevo. \u00bfHay algo en particular que no entiendas? [Sentiment: neutral]",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": "fb8fb60a-aa2d-4b35-8591-6c6ba450db4d",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    },
+    {
+      "content": "para",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": "7c6cd458-b6a2-45d4-a40c-1dfd356a0c9b"
+    },
+    {
+      "content": "\u00bfQuieres que siga explicando algo en particular? [Sentiment: neutral]",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": "624c0b98-624d-4bc2-8c49-52ac7ad835ae",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    },
+    {
+      "content": "para te he dicho",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": "8289ed3c-6ab9-4d08-bccd-c78065452035"
+    },
+    {
+      "content": "Disculpa, parece que no te he entendido bien. \u00bfPodr\u00edas repetir lo que me has dicho? [Sentiment: neutral]",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": "5a866fd8-01dd-474a-95e8-65222b83b2ef",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    },
+    {
+      "content": "esto es una mierda",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": "cf6a19bf-7b17-4786-a6e4-c7de9c43fd5e"
+    },
+    {
+      "content": "Lo siento mucho, parece que est\u00e1s frustrado. \u00bfHay algo en lo que pueda ayudarte para mejorar la situaci\u00f3n? [Sentiment: negative]",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": "e0001c17-17eb-4ef1-b85e-3fe66b3d62d7",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  ]
+}
